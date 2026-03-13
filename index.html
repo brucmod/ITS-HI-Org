@@ -717,7 +717,7 @@ document.getElementById('file-input').addEventListener('change', function() {
         const rows = XLSX.utils.sheet_to_json(ws, {defval:''});
         if (!rows.length) { showToast('File appears empty.','error'); return; }
         function s(v){ return String(v||'').trim(); }
-        function refName(v){ return s(v).replace(/\s*\([^)]*\)\s*$','').replace(/\b\w/g,c=>c.toUpperCase()); }
+        function refName(v){ return s(v).replace(/\s*\([^)]*\)\s*$/, '').replace(/\b\w/g, c=>c.toUpperCase()); }
         const newRecords = rows.map(r => ({
           manager:      refName(r.manager || r.Manager || ''),
           name:         s(r.name || r.CoworkerName || ''),
