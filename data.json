@@ -8,7 +8,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "_Brian Campbell",
@@ -19,7 +20,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "_Brian Campbell",
@@ -30,7 +32,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "_Brian Campbell",
@@ -41,7 +44,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "NJ",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "_Brian Campbell",
@@ -52,7 +56,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "_Firooz Ghanbarzadeh",
@@ -63,7 +68,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "_Firooz Ghanbarzadeh",
@@ -74,7 +80,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -85,7 +92,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "Philadelphia, PA",
     "statesCovers": "",
-    "officeLocation": "Cherry Hill, NJ"
+    "officeLocation": "Cherry Hill, NJ",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -96,7 +104,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "Denver, CO",
     "statesCovers": "",
-    "officeLocation": "Centennial, CO"
+    "officeLocation": "Centennial, CO",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -107,7 +116,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "NJ",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -118,7 +128,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "Naperville, IL",
     "statesCovers": "",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -129,7 +140,8 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -140,7 +152,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "Charlotte, NC",
     "statesCovers": "",
-    "officeLocation": "Brentwood, TN"
+    "officeLocation": "Brentwood, TN",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -151,7 +164,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "Lake in the Hills, IL",
     "statesCovers": "",
-    "officeLocation": "Chicago, IL and Vernon Hills, IL"
+    "officeLocation": "Chicago, IL and Vernon Hills, IL",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -162,18 +176,20 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "Charlotte, NC",
     "statesCovers": "",
-    "officeLocation": "Charlotte & Greensboro, NC"
+    "officeLocation": "Charlotte & Greensboro, NC",
+    "coverageParsed": []
   },
   {
     "manager": "-",
     "name": "Jessica Keehan",
     "title": "Manager - Hybrid Infrastructure",
     "email": "jesskee@cdw.com",
-    "segment": "Commerical Enterprise/Majors West",
+    "segment": "Commercial Enterprise/Majors West",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -184,7 +200,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "Chicago, IL",
     "statesCovers": "",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -195,7 +212,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "Lake Geneva, WI",
     "statesCovers": "",
-    "officeLocation": "Chicago, IL (West Adams); Milwaukee, WI; Madison, WI"
+    "officeLocation": "Chicago, IL (West Adams); Milwaukee, WI; Madison, WI",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -206,18 +224,20 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "Wake Forest, NC",
     "statesCovers": "",
-    "officeLocation": "Raleigh, NC"
+    "officeLocation": "Raleigh, NC",
+    "coverageParsed": []
   },
   {
     "manager": "-",
     "name": "Matt Benson",
     "title": "Manager - Hybrid Infrastructure",
     "email": "mattben@cdw.com",
-    "segment": "NE Majors/Finanical",
+    "segment": "NE Majors/Financial",
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -228,7 +248,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -239,7 +260,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": "Los Angekes, ca"
+    "officeLocation": "Los Angeles, CA",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -250,7 +272,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "AZ",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -261,7 +284,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -272,7 +296,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -283,7 +308,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -294,7 +320,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -305,7 +332,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "Berlin, NJ",
     "statesCovers": "",
-    "officeLocation": "Cherry Hill, NJ"
+    "officeLocation": "Cherry Hill, NJ",
+    "coverageParsed": []
   },
   {
     "manager": "-",
@@ -316,7 +344,8 @@
     "solutionArea": "All Hybrid Infrastructure (HI)",
     "homeLocation": "Omaha, NE",
     "statesCovers": "",
-    "officeLocation": "Omaha, NE"
+    "officeLocation": "Omaha, NE",
+    "coverageParsed": []
   },
   {
     "manager": "Adrian Johnson",
@@ -327,7 +356,14 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "San Antonio, TX",
     "statesCovers": "Texas, Oklahoma, Louisiana, Arkansas , AZ",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Arizona",
+      "Arkansas",
+      "Louisiana",
+      "Oklahoma",
+      "Texas"
+    ]
   },
   {
     "manager": "Adrian Johnson",
@@ -338,7 +374,14 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Lino Lakes, MN",
     "statesCovers": "Central MI & Wi, No Ohio, West PA, MO, KS",
-    "officeLocation": "Bloomington, MN"
+    "officeLocation": "Bloomington, MN",
+    "coverageParsed": [
+      "Kansas",
+      "Michigan/Wisconsin",
+      "Missouri",
+      "Ohio",
+      "Pennsylvania"
+    ]
   },
   {
     "manager": "Adrian Johnson",
@@ -349,7 +392,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Denver, CO",
     "statesCovers": "So. Cal, CA Bay Area, NW area Field",
-    "officeLocation": "Centennial, CO"
+    "officeLocation": "Centennial, CO",
+    "coverageParsed": [
+      "California",
+      "Pacific Northwest"
+    ]
   },
   {
     "manager": "Adrian Johnson",
@@ -360,7 +407,15 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Houston, TX",
     "statesCovers": "IN, So. Texas, MN, ND, SD, Central IL",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Illinois",
+      "Indiana",
+      "Minnesota",
+      "North Dakota",
+      "South Dakota",
+      "Texas"
+    ]
   },
   {
     "manager": "Adrian Johnson",
@@ -371,7 +426,13 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Terre Haut, IN",
     "statesCovers": "PAC NW, IN, KY, So Ohio",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Indiana",
+      "Kentucky",
+      "Ohio",
+      "Pacific Northwest"
+    ]
   },
   {
     "manager": "Adrian Johnson",
@@ -382,7 +443,15 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Fairport, NY",
     "statesCovers": "ME, NH, VT, MA, RI, CT",
-    "officeLocation": "Pittsford, NY"
+    "officeLocation": "Pittsford, NY",
+    "coverageParsed": [
+      "Connecticut",
+      "Maine",
+      "Massachusetts",
+      "New Hampshire",
+      "Rhode Island",
+      "Vermont"
+    ]
   },
   {
     "manager": "Alex Cooper",
@@ -393,7 +462,12 @@
     "solutionArea": "Artificial Intelligence (AI)",
     "homeLocation": "",
     "statesCovers": "Dallas, OK, AR",
-    "officeLocation": "Dallas, TX"
+    "officeLocation": "Dallas, TX",
+    "coverageParsed": [
+      "Arkansas",
+      "Oklahoma",
+      "Texas"
+    ]
   },
   {
     "manager": "Alex Cooper",
@@ -404,7 +478,10 @@
     "solutionArea": "Artificial Intelligence (AI)",
     "homeLocation": "Chicago, Adams",
     "statesCovers": "West Majors",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors West"
+    ]
   },
   {
     "manager": "Alex Cooper",
@@ -415,7 +492,8 @@
     "solutionArea": "Artificial Intelligence (AI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "Alex Cooper",
@@ -426,7 +504,8 @@
     "solutionArea": "Artificial Intelligence (AI)",
     "homeLocation": "",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "Alex Cooper",
@@ -437,7 +516,8 @@
     "solutionArea": "Artificial Intelligence (AI)",
     "homeLocation": "Colorado",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "Alex Cooper",
@@ -448,7 +528,8 @@
     "solutionArea": "Artificial Intelligence (AI)",
     "homeLocation": "Maryland",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "Alex Cooper",
@@ -459,7 +540,10 @@
     "solutionArea": "Artificial Intelligence (AI)",
     "homeLocation": "Chicago, Adams",
     "statesCovers": "Territory",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Territory"
+    ]
   },
   {
     "manager": "Alex Cooper",
@@ -470,7 +554,8 @@
     "solutionArea": "Artificial Intelligence (AI)",
     "homeLocation": "Trevor Wi",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "Alex Cooper",
@@ -481,7 +566,10 @@
     "solutionArea": "Artificial Intelligence (AI)",
     "homeLocation": "Dallas, TX",
     "statesCovers": "TOLA plus all FSI",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "TX/OK/LA/AR"
+    ]
   },
   {
     "manager": "Andrea Pulito",
@@ -492,7 +580,10 @@
     "solutionArea": "Hybrid DataCente",
     "homeLocation": "Chicago, IL",
     "statesCovers": "ALL 50 states",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "All 50 States"
+    ]
   },
   {
     "manager": "Andrea Pulito",
@@ -503,7 +594,10 @@
     "solutionArea": "Hybrid DataCente",
     "homeLocation": "Skokie, Il",
     "statesCovers": "ALL 50 states",
-    "officeLocation": "Adams"
+    "officeLocation": "Adams",
+    "coverageParsed": [
+      "All 50 States"
+    ]
   },
   {
     "manager": "Andrea Pulito",
@@ -514,7 +608,10 @@
     "solutionArea": "Hybrid DataCente",
     "homeLocation": "Berlin, NJ",
     "statesCovers": "Eastern Time Zone (Entire East Coast)",
-    "officeLocation": "Cherry Hill, NJ"
+    "officeLocation": "Cherry Hill, NJ",
+    "coverageParsed": [
+      "East Coast"
+    ]
   },
   {
     "manager": "Anthony Viola",
@@ -525,7 +622,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Mundeline, Il",
     "statesCovers": "Enterprise Central & West + territory Central & West",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": [
+      "Enterprise Central & West",
+      "Territory Central"
+    ]
   },
   {
     "manager": "Anthony Viola",
@@ -536,7 +637,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Gainesville, VA",
     "statesCovers": "Enterprise South East",
-    "officeLocation": "McLean, VA"
+    "officeLocation": "McLean, VA",
+    "coverageParsed": [
+      "Enterprise Southeast"
+    ]
   },
   {
     "manager": "Anthony Viola",
@@ -547,7 +651,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Raleigh, NC",
     "statesCovers": "Enterprise South East",
-    "officeLocation": "Greensboro, NC"
+    "officeLocation": "Greensboro, NC",
+    "coverageParsed": [
+      "Enterprise Southeast"
+    ]
   },
   {
     "manager": "Bryan Purl",
@@ -558,7 +665,8 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Denver, CO",
     "statesCovers": "",
-    "officeLocation": "Centennial, CO"
+    "officeLocation": "Centennial, CO",
+    "coverageParsed": []
   },
   {
     "manager": "Bryan Purl",
@@ -569,7 +677,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Wauconda, IL",
     "statesCovers": "IL,WI",
-    "officeLocation": "Vernon Hills, Chicago, Rosemont, IL"
+    "officeLocation": "Vernon Hills, Chicago, Rosemont, IL",
+    "coverageParsed": [
+      "Illinois",
+      "Wisconsin"
+    ]
   },
   {
     "manager": "Bryan Purl",
@@ -580,7 +692,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Leesburg, VA",
     "statesCovers": "GA,AL,MS",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Alabama",
+      "Georgia",
+      "Mississippi"
+    ]
   },
   {
     "manager": "Bryan Purl",
@@ -591,7 +708,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Munster, IN",
     "statesCovers": "IN, MI, Southern OH, IN",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Indiana",
+      "Michigan",
+      "Ohio"
+    ]
   },
   {
     "manager": "Bryan Purl",
@@ -602,7 +724,14 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Las Cruces, NM",
     "statesCovers": "Southeastern PA, DE, Southern NJ & DC,MD,VA",
-    "officeLocation": "Remote"
+    "officeLocation": "Remote",
+    "coverageParsed": [
+      "DC",
+      "Delaware",
+      "Maryland",
+      "Southeast",
+      "Virginia"
+    ]
   },
   {
     "manager": "Bryan Purl",
@@ -613,7 +742,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Indianapolis, IN",
     "statesCovers": "IN",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Indiana"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -624,7 +756,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Kenosha, WI",
     "statesCovers": "Majors Central, Enterprise East, Territory Central",
-    "officeLocation": "Vernon Hills, IL"
+    "officeLocation": "Vernon Hills, IL",
+    "coverageParsed": [
+      "Enterprise East",
+      "Majors Central",
+      "Territory Central"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -635,7 +772,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Milwaukee, WI",
     "statesCovers": "WI",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Wisconsin"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -646,7 +786,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Port Saint Lucie, FL",
     "statesCovers": "FL",
-    "officeLocation": "Boca Raton, FL"
+    "officeLocation": "Boca Raton, FL",
+    "coverageParsed": [
+      "Florida"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -657,7 +800,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Chesterton, IN",
     "statesCovers": "Majors Central, Enterprise East, Territory Central",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise East",
+      "Majors Central",
+      "Territory Central"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -668,7 +816,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "",
     "statesCovers": "Majors Central, Enterprise East, Territory Central",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise East",
+      "Majors Central",
+      "Territory Central"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -679,7 +832,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Clarksville, TN",
     "statesCovers": "Majors South, Territory South",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors South",
+      "Territory South"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -690,7 +847,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Phoenix, AZ",
     "statesCovers": "Majors West, Enterprise West",
-    "officeLocation": "Tempe, AZ"
+    "officeLocation": "Tempe, AZ",
+    "coverageParsed": [
+      "Enterprise West",
+      "Majors West"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -701,7 +862,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Fullerton, CA",
     "statesCovers": "Majors West, Territory West, Enterprise west",
-    "officeLocation": "Irvine, CA"
+    "officeLocation": "Irvine, CA",
+    "coverageParsed": [
+      "Enterprise West",
+      "Majors West",
+      "Territory West"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -712,7 +878,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Greensboro, NC",
     "statesCovers": "Majors East, Enterprise East, Territory East",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise East",
+      "Majors East",
+      "Territory East"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -723,7 +894,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "",
     "statesCovers": "Majors Central, Enterprise East, Territory Central",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise East",
+      "Majors Central",
+      "Territory Central"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -734,7 +910,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "St. Charles, MO",
     "statesCovers": "Majors Central, Enterprise East, Territory Central",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise East",
+      "Majors Central",
+      "Territory Central"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -745,7 +926,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Tampa, FL",
     "statesCovers": "Majors East, Enterprise East, Territory East",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise East",
+      "Majors East",
+      "Territory East"
+    ]
   },
   {
     "manager": "Chris Shifley",
@@ -756,18 +942,27 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Michigan",
     "statesCovers": "Majors Central, Enterprise East, Territory Central",
-    "officeLocation": "Michigan"
+    "officeLocation": "Michigan",
+    "coverageParsed": [
+      "Enterprise East",
+      "Majors Central",
+      "Territory Central"
+    ]
   },
   {
     "manager": "Chuck Saddler",
     "name": "Anthony Gaynor",
     "title": "Senior Solutions Architect",
     "email": "anthony.gaynor@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Raleigh, NC",
     "statesCovers": "Majors & ENT  Raleigh, Fl",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Florida",
+      "Majors/Enterprise Raleigh"
+    ]
   },
   {
     "manager": "Chuck Saddler",
@@ -778,18 +973,24 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Fort Mill, SC",
     "statesCovers": "ALL 50 states",
-    "officeLocation": "Charlotte, NC"
+    "officeLocation": "Charlotte, NC",
+    "coverageParsed": [
+      "All 50 States"
+    ]
   },
   {
     "manager": "Chuck Saddler",
     "name": "Clif Morgan",
     "title": "Consulting Solutions Architect",
     "email": "Clif.Morgan@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Clayton, NC",
     "statesCovers": "Majors & ENT  Raleigh",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors/Enterprise Raleigh"
+    ]
   },
   {
     "manager": "Chuck Saddler",
@@ -800,29 +1001,42 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "",
     "statesCovers": "Majors SE Raleigh",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors Southeast"
+    ]
   },
   {
     "manager": "Chuck Saddler",
     "name": "Mark Sanford",
     "title": "Principal Solutions Architect",
     "email": "Mark.Sanford@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Blairsville, GA",
     "statesCovers": "Majors GA, FL, AL",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Alabama",
+      "Florida",
+      "Georgia"
+    ]
   },
   {
     "manager": "Chuck Saddler",
     "name": "Mike Hewitt",
     "title": "Senior Solutions Architect",
     "email": "mikehew@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Nashville, TN",
     "statesCovers": "Majors & ENT TN, GA, AL",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Alabama",
+      "Georgia",
+      "Tennessee"
+    ]
   },
   {
     "manager": "Chuck Saddler",
@@ -833,18 +1047,24 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Bowling Green, KY",
     "statesCovers": "TN",
-    "officeLocation": "Brentwood, TN"
+    "officeLocation": "Brentwood, TN",
+    "coverageParsed": [
+      "Tennessee"
+    ]
   },
   {
     "manager": "Chuck Saddler",
     "name": "Roger Laframboise",
     "title": "Consulting Solutions Architect",
     "email": "Roger.Laframboise@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Chicago, IL",
     "statesCovers": "Enterprise FL",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Florida"
+    ]
   },
   {
     "manager": "Dawn Lodewyck",
@@ -855,7 +1075,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Lee's Summit, MO",
     "statesCovers": "Majors North Central1 & North Central2",
-    "officeLocation": "Overland Park, KS"
+    "officeLocation": "Overland Park, KS",
+    "coverageParsed": [
+      "Majors North Central"
+    ]
   },
   {
     "manager": "Dawn Lodewyck",
@@ -864,9 +1087,10 @@
     "email": "dan.mallozzi@cdw.com",
     "segment": "",
     "solutionArea": "Data Center Solutions (DCS)",
-    "homeLocation": "Reeding, CT",
+    "homeLocation": "Reading, CT",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "Dawn Lodewyck",
@@ -877,7 +1101,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "La Grange, IL",
     "statesCovers": "Territory NYC Metro",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": [
+      "Territory NYC Metro"
+    ]
   },
   {
     "manager": "Dawn Lodewyck",
@@ -888,7 +1115,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Wheaton, IL",
     "statesCovers": "Enterprise Central & West",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise Central & West"
+    ]
   },
   {
     "manager": "Dawn Lodewyck",
@@ -899,7 +1129,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Oak Park, IL",
     "statesCovers": "Enterprise South East",
-    "officeLocation": "Rosemont, IL"
+    "officeLocation": "Rosemont, IL",
+    "coverageParsed": [
+      "Enterprise Southeast"
+    ]
   },
   {
     "manager": "Dawn Lodewyck",
@@ -910,7 +1143,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Denver, CO",
     "statesCovers": "Enterprise Central & West + Majors West",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise Central & West",
+      "Majors West"
+    ]
   },
   {
     "manager": "Gary Arnce",
@@ -921,7 +1158,8 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "NJ",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "Gary Arnce",
@@ -932,7 +1170,8 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Ga",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "Gary Arnce",
@@ -943,7 +1182,8 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Chicago, IL",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "Gary Arnce",
@@ -954,7 +1194,8 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "WV",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "Gary Arnce",
@@ -965,7 +1206,8 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Chicago, IL",
     "statesCovers": "",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": []
   },
   {
     "manager": "Jason Girard",
@@ -976,7 +1218,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Greensboro, NC",
     "statesCovers": "Enterprise + Majors HC",
-    "officeLocation": "Greensboro, NC"
+    "officeLocation": "Greensboro, NC",
+    "coverageParsed": [
+      "Enterprise",
+      "Majors HC"
+    ]
   },
   {
     "manager": "Jason Girard",
@@ -987,7 +1233,16 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Tacoma, WA",
     "statesCovers": "WA, OR, ID, MT, CO, AZ, CA",
-    "officeLocation": "Bellevue, WA"
+    "officeLocation": "Bellevue, WA",
+    "coverageParsed": [
+      "Arizona",
+      "California",
+      "Colorado",
+      "Idaho",
+      "Montana",
+      "Oregon",
+      "Washington"
+    ]
   },
   {
     "manager": "Jason Girard",
@@ -998,7 +1253,11 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "CO",
     "statesCovers": "Enterprise + Majors HC",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise",
+      "Majors HC"
+    ]
   },
   {
     "manager": "Jason Girard",
@@ -1009,7 +1268,10 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Pittsburgh, PA",
     "statesCovers": "Majors Central",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors Central"
+    ]
   },
   {
     "manager": "Jason Girard",
@@ -1018,42 +1280,58 @@
     "email": "Ross.Grover@cdw.com",
     "segment": "",
     "solutionArea": "All DI (HI,SEC,DX)",
-    "homeLocation": "Iadera Ranch, CA",
+    "homeLocation": "Ladera Ranch, CA",
     "statesCovers": "CA, AZ",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Arizona",
+      "California"
+    ]
   },
   {
     "manager": "Jessica Keehan",
     "name": "Ajay Parmar",
     "title": "Principal Solutions Executive",
     "email": "ajaypar@cdwg.com",
-    "segment": "Commerical Enterprise/Majors West",
+    "segment": "Commercial Enterprise/Majors West",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "AZ",
     "statesCovers": "NW / SW Enterprise and Majors",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors",
+      "NW/SW Enterprise & Majors"
+    ]
   },
   {
     "manager": "Jessica Keehan",
     "name": "Eric Gill",
     "title": "Principal Solutions Executive",
     "email": "ericgil@cdw.com",
-    "segment": "Commerical Enterprise/Majors West",
+    "segment": "Commercial Enterprise/Majors West",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Woodridge, IL",
     "statesCovers": "S Central Enterprise and Majors - TOLA",
-    "officeLocation": "Adams"
+    "officeLocation": "Adams",
+    "coverageParsed": [
+      "Central Enterprise",
+      "TX/OK/LA/AR"
+    ]
   },
   {
     "manager": "Jessica Keehan",
     "name": "Luke Welling",
     "title": "Principal Solutions Executive",
     "email": "lukewel@cdw.com",
-    "segment": "Commerical Enterprise/Majors West",
+    "segment": "Commercial Enterprise/Majors West",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Carefree, AZ",
     "statesCovers": "NW / SW Enterprise and Majors",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors",
+      "NW/SW Enterprise & Majors"
+    ]
   },
   {
     "manager": "Jessica Keehan",
@@ -1064,7 +1342,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Dallas, TX",
     "statesCovers": "S Central Enterprise and Majors - TOLA",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Central Enterprise",
+      "TX/OK/LA/AR"
+    ]
   },
   {
     "manager": "Kat Averyheart",
@@ -1075,7 +1357,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Kenosha, WI",
     "statesCovers": "K12 & Hi ED  East POD",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "K12 & Higher Education"
+    ]
   },
   {
     "manager": "Kat Averyheart",
@@ -1086,7 +1371,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Austin, TX",
     "statesCovers": "K12 & HI ED Central POD",
-    "officeLocation": "Austin, TX"
+    "officeLocation": "Austin, TX",
+    "coverageParsed": [
+      "K12 & Higher Education"
+    ]
   },
   {
     "manager": "Kris Lappala",
@@ -1097,7 +1385,10 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Naperville, IL",
     "statesCovers": "Majors Central",
-    "officeLocation": "Rosemont, IL"
+    "officeLocation": "Rosemont, IL",
+    "coverageParsed": [
+      "Majors Central"
+    ]
   },
   {
     "manager": "Kris Lappala",
@@ -1108,7 +1399,10 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Lee's Summit, MO",
     "statesCovers": "Central  majors",
-    "officeLocation": "Overland Park, KS"
+    "officeLocation": "Overland Park, KS",
+    "coverageParsed": [
+      "Majors Central"
+    ]
   },
   {
     "manager": "Kris Lappala",
@@ -1119,7 +1413,13 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Pittsburgh, PA",
     "statesCovers": "MI, KY, OH, Western PA",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Kentucky",
+      "Michigan",
+      "Ohio",
+      "Pennsylvania"
+    ]
   },
   {
     "manager": "Kris Lappala",
@@ -1130,7 +1430,10 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "",
     "statesCovers": "Majors Central",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors Central"
+    ]
   },
   {
     "manager": "Kris Lappala",
@@ -1140,8 +1443,11 @@
     "segment": "Commercial Majors Central",
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Center Point, IA",
-    "statesCovers": "Majors Cenrtral",
-    "officeLocation": "West Des Moines, IA"
+    "statesCovers": "Majors Central",
+    "officeLocation": "West Des Moines, IA",
+    "coverageParsed": [
+      "Majors Central"
+    ]
   },
   {
     "manager": "Kris Lappala",
@@ -1152,7 +1458,10 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Pittsburgh, PA",
     "statesCovers": "Majors Central",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors Central"
+    ]
   },
   {
     "manager": "Kris Lappala",
@@ -1163,7 +1472,10 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "",
     "statesCovers": "NE Named Accounts",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Named Accounts"
+    ]
   },
   {
     "manager": "Kris Lappala",
@@ -1174,7 +1486,10 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "",
     "statesCovers": "Majors Central",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors Central"
+    ]
   },
   {
     "manager": "Lauren Honer",
@@ -1185,7 +1500,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Bellingham, WA",
     "statesCovers": "TOLA and West",
-    "officeLocation": "Bellevue, WA"
+    "officeLocation": "Bellevue, WA",
+    "coverageParsed": [
+      "TX/OK/LA/AR",
+      "West Region"
+    ]
   },
   {
     "manager": "Lauren Honer",
@@ -1196,7 +1515,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Carmel, IN",
     "statesCovers": "Majors Central & Majors East",
-    "officeLocation": "Carmel, IN"
+    "officeLocation": "Carmel, IN",
+    "coverageParsed": [
+      "Majors Central"
+    ]
   },
   {
     "manager": "Lauren Honer",
@@ -1207,7 +1529,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Tempe, AZ",
     "statesCovers": "Territory + Majors West",
-    "officeLocation": "Tempe, AZ"
+    "officeLocation": "Tempe, AZ",
+    "coverageParsed": [
+      "Majors West",
+      "Territory"
+    ]
   },
   {
     "manager": "Lauren Honer",
@@ -1218,117 +1544,155 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Montgomery, AL",
     "statesCovers": "Payors Enterprise East and Enterprise West",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise East",
+      "Enterprise West"
+    ]
   },
   {
     "manager": "Lauren Sivak",
     "name": "Matt Wright",
     "title": "Principal Solutions Architect",
     "email": "mattwri@cdw.com",
-    "segment": "Commerical Enterprise/Majors West",
+    "segment": "Commercial Enterprise/Majors West",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Nolensville, TN",
     "statesCovers": "TOLA",
-    "officeLocation": "Brentwood, TN"
+    "officeLocation": "Brentwood, TN",
+    "coverageParsed": [
+      "TX/OK/LA/AR"
+    ]
   },
   {
     "manager": "Lauren Sivak",
     "name": "Scott Stafford",
     "title": "Consulting Solutions Architect",
     "email": "scott.stafford@cdw.com",
-    "segment": "Commerical Enterprise/Majors West",
+    "segment": "Commercial Enterprise/Majors West",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "",
     "statesCovers": "TOLA",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "TX/OK/LA/AR"
+    ]
   },
   {
     "manager": "Leslie Fielding-Russell",
     "name": "Brad Springer",
     "title": "Consulting Solutions Architect",
     "email": "Brad.Springer@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Des Moines, IA",
     "statesCovers": "Mid Central Enterprise",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Mid-Central Enterprise"
+    ]
   },
   {
     "manager": "Leslie Fielding-Russell",
     "name": "Dale Casaquite",
     "title": "Consulting Solutions Architect",
     "email": "dale.casaquite@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Overland Park, KS",
     "statesCovers": "Mid Central Enterprise",
-    "officeLocation": "Overland Park, KS"
+    "officeLocation": "Overland Park, KS",
+    "coverageParsed": [
+      "Mid-Central Enterprise"
+    ]
   },
   {
     "manager": "Leslie Fielding-Russell",
     "name": "Dave Wagner",
     "title": "Consulting Solutions Architect",
     "email": "dave.wagner@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Chesterton, IN",
     "statesCovers": "NE Majors (- Philadelphia, PA)",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors Northeast",
+      "Pennsylvania"
+    ]
   },
   {
     "manager": "Leslie Fielding-Russell",
     "name": "James Monforte",
     "title": "Consulting Solutions Architect",
     "email": "jamemon@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Mullica Hill, NJ",
     "statesCovers": "NE Majors (-NY +NE ENT)",
-    "officeLocation": "Cherry Hill, NJ"
+    "officeLocation": "Cherry Hill, NJ",
+    "coverageParsed": [
+      "Enterprise Northeast",
+      "Majors Northeast"
+    ]
   },
   {
     "manager": "Leslie Fielding-Russell",
     "name": "Lou Milinazzo",
     "title": "Consulting Solutions Architect",
     "email": "loumili@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Boston, MA",
     "statesCovers": "NE Majors, New England",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors Northeast",
+      "New England"
+    ]
   },
   {
     "manager": "Leslie Fielding-Russell",
     "name": "Michael Lopez",
     "title": "Consulting Solutions Architect",
     "email": "mikelop@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Volo, IL",
     "statesCovers": "Central Enterprise",
-    "officeLocation": "Vernon Hills and Chicago, IL"
+    "officeLocation": "Vernon Hills and Chicago, IL",
+    "coverageParsed": [
+      "Central Enterprise"
+    ]
   },
   {
     "manager": "Leslie Fielding-Russell",
     "name": "Scott Shatney",
     "title": "Consulting Solutions Architect",
     "email": "scottsh@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Killingly, CT",
     "statesCovers": "NE Majors, New England",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors Northeast",
+      "New England"
+    ]
   },
   {
     "manager": "Leslie Fielding-Russell",
     "name": "Shawn Boots",
     "title": "Principal Solutions Architect",
     "email": "shawboo@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Des Moines, IA",
     "statesCovers": "Mid Central Enterprise",
-    "officeLocation": "West Des Moines, IA"
+    "officeLocation": "West Des Moines, IA",
+    "coverageParsed": [
+      "Mid-Central Enterprise"
+    ]
   },
   {
     "manager": "Matt Benson",
@@ -1339,7 +1703,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Mesa, AZ",
     "statesCovers": "Enterprise Central & West + Majors North Central2 + Territory West",
-    "officeLocation": "Tempe, AZ"
+    "officeLocation": "Tempe, AZ",
+    "coverageParsed": [
+      "Enterprise Central & West",
+      "Majors North Central",
+      "Territory West"
+    ]
   },
   {
     "manager": "Matt Benson",
@@ -1350,7 +1719,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Lake Zurich, IL",
     "statesCovers": "Enterprise NE and Majors North Central1",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise Northeast",
+      "Majors North Central"
+    ]
   },
   {
     "manager": "Matt Benson",
@@ -1361,7 +1734,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Chicago, IL",
     "statesCovers": "Enterprise Central & West + Majors West + Territory Central",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": [
+      "Enterprise Central & West",
+      "Majors West",
+      "Territory Central"
+    ]
   },
   {
     "manager": "Matt Benson",
@@ -1372,7 +1750,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Cary, NC",
     "statesCovers": "Territory East",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Territory East"
+    ]
   },
   {
     "manager": "Matt Benson",
@@ -1383,7 +1764,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Mokena, IL",
     "statesCovers": "Enterprise + Majors South East  + Territory East",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": [
+      "Enterprise",
+      "Majors Southeast",
+      "Territory East"
+    ]
   },
   {
     "manager": "Matt Benson",
@@ -1394,7 +1780,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Vernon Hills, IL",
     "statesCovers": "Enterprise South East +  Majors North East + Territory NYC metro",
-    "officeLocation": "Vernon Hills, IL"
+    "officeLocation": "Vernon Hills, IL",
+    "coverageParsed": [
+      "Enterprise Southeast",
+      "Majors Northeast",
+      "Territory NYC Metro"
+    ]
   },
   {
     "manager": "Matt Benson",
@@ -1405,7 +1796,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Millstone Township, NJ",
     "statesCovers": "Enterprise North East + Majors North East",
-    "officeLocation": "Bell Works, NJ and NYC"
+    "officeLocation": "Bell Works, NJ and NYC",
+    "coverageParsed": [
+      "Enterprise Northeast",
+      "Majors Northeast"
+    ]
   },
   {
     "manager": "Matt Benson",
@@ -1414,9 +1809,12 @@
     "email": "Vincent.Correa@cdw.com",
     "segment": "FSI",
     "solutionArea": "Data Center Solutions (DCS)",
-    "homeLocation": "Mafietta, GA",
+    "homeLocation": "Marietta, GA",
     "statesCovers": "Majors South East",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors Southeast"
+    ]
   },
   {
     "manager": "Mike Krummrey",
@@ -1427,7 +1825,13 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Cleveland, OH",
     "statesCovers": "MI, KY, OH, Western PA",
-    "officeLocation": "Cleveland, OH"
+    "officeLocation": "Cleveland, OH",
+    "coverageParsed": [
+      "Kentucky",
+      "Michigan",
+      "Ohio",
+      "Pennsylvania"
+    ]
   },
   {
     "manager": "Mike Krummrey",
@@ -1438,7 +1842,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Macomb, MI",
     "statesCovers": "MI, OH,PA",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Michigan",
+      "Ohio",
+      "Pennsylvania"
+    ]
   },
   {
     "manager": "Mike Krummrey",
@@ -1449,7 +1858,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Cleveland, OH",
     "statesCovers": "Northern OH, Western PA",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Ohio",
+      "Pennsylvania"
+    ]
   },
   {
     "manager": "Mike Krummrey",
@@ -1460,7 +1873,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Chicago, IL",
     "statesCovers": "IL, WI",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": [
+      "Illinois",
+      "Wisconsin"
+    ]
   },
   {
     "manager": "Mike Krummrey",
@@ -1470,8 +1887,11 @@
     "segment": "Commercial Majors Central",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Woodstock, IL",
-    "statesCovers": "Cenral majors (DPIM)",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "statesCovers": "Central majors (DPIM)",
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": [
+      "Majors Central"
+    ]
   },
   {
     "manager": "Mike Krummrey",
@@ -1482,62 +1902,81 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Chicago, IL",
     "statesCovers": "IL, WI",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": [
+      "Illinois",
+      "Wisconsin"
+    ]
   },
   {
     "manager": "Nadeem Bari",
     "name": "David Rhodes",
     "title": "Principal Solutions Architect",
     "email": "davirho@cdw.com",
-    "segment": "Commerical Enterprise/Majors West",
+    "segment": "Commercial Enterprise/Majors West",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Phoenix, AZ",
     "statesCovers": "SW Majors & Ent",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Southwest Majors & Enterprise"
+    ]
   },
   {
     "manager": "Nadeem Bari",
     "name": "Lon Mehlman",
     "title": "Consulting Solutions Architect",
     "email": "lon.mehlman@cdw.com",
-    "segment": "Commerical Enterprise/Majors West",
+    "segment": "Commercial Enterprise/Majors West",
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Los Angeles, CA",
     "statesCovers": "SW Majors and Ent",
-    "officeLocation": "Irvine and San Diego, CA & Tempe, AZ"
+    "officeLocation": "Irvine and San Diego, CA & Tempe, AZ",
+    "coverageParsed": [
+      "Southwest Majors & Enterprise"
+    ]
   },
   {
     "manager": "Nadeem Bari",
     "name": "Luis Rios",
     "title": "Consulting Solutions Architect",
     "email": "luisrio@cdw.com",
-    "segment": "Commerical Enterprise/Majors West",
+    "segment": "Commercial Enterprise/Majors West",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Chicago, IL",
     "statesCovers": "NW Majors & ENT",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": [
+      "Northwest Majors & Enterprise"
+    ]
   },
   {
     "manager": "Nadeem Bari",
     "name": "Mark Brannfors",
     "title": "Principal Solutions Architect",
     "email": "markbra@cdw.com",
-    "segment": "Commerical Enterprise/Majors West",
+    "segment": "Commercial Enterprise/Majors West",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Renton, WA",
     "statesCovers": "NW Majors & ENT",
-    "officeLocation": "Bellevue, WA"
+    "officeLocation": "Bellevue, WA",
+    "coverageParsed": [
+      "Northwest Majors & Enterprise"
+    ]
   },
   {
     "manager": "Nadeem Bari",
     "name": "Mike Dunn",
     "title": "Principal Solutions Architect",
     "email": "mike.dunn2@cdw.com",
-    "segment": "Commerical Enterprise/Majors West",
+    "segment": "Commercial Enterprise/Majors West",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Bellevue, WA",
     "statesCovers": "NW Majors & ENT",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Northwest Majors & Enterprise"
+    ]
   },
   {
     "manager": "Nadeem Bari",
@@ -1548,7 +1987,10 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "MO",
     "statesCovers": "Named Accounts",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Named Accounts"
+    ]
   },
   {
     "manager": "Ozzie Vargas",
@@ -1559,7 +2001,12 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "North Carolina",
     "statesCovers": "VA, NC, and SC",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "North Carolina",
+      "South Carolina",
+      "Virginia"
+    ]
   },
   {
     "manager": "Ozzie Vargas",
@@ -1570,7 +2017,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Wheaton, IL",
     "statesCovers": "Central And Northeast",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": [
+      "Central Region",
+      "Northeast Region"
+    ]
   },
   {
     "manager": "Ozzie Vargas",
@@ -1581,7 +2032,12 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Parkland, Fl",
     "statesCovers": "Northeast, Central, South",
-    "officeLocation": "Tampa, FL"
+    "officeLocation": "Tampa, FL",
+    "coverageParsed": [
+      "Central Region",
+      "Northeast Region",
+      "South Region"
+    ]
   },
   {
     "manager": "Pat Sullivan",
@@ -1592,7 +2048,10 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "",
     "statesCovers": "Majors",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Majors"
+    ]
   },
   {
     "manager": "Pat Sullivan",
@@ -1602,8 +2061,11 @@
     "segment": "FSI",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Atlanta, GA",
-    "statesCovers": "Enerprise Southeast",
-    "officeLocation": "Brentwood, TN"
+    "statesCovers": "Enterprise Southeast",
+    "officeLocation": "Brentwood, TN",
+    "coverageParsed": [
+      "Enterprise Southeast"
+    ]
   },
   {
     "manager": "Pat Sullivan",
@@ -1614,7 +2076,11 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Detroit, Mi",
     "statesCovers": "Enterprise Central and Northeast",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise Central",
+      "Northeast Region"
+    ]
   },
   {
     "manager": "Pat Sullivan",
@@ -1625,7 +2091,11 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "PA",
     "statesCovers": "Enterprise Central and Northeast",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise Central",
+      "Northeast Region"
+    ]
   },
   {
     "manager": "Pat Sullivan",
@@ -1636,7 +2106,10 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Holland, PA",
     "statesCovers": "Enterprise Central & Northeast",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Enterprise Central"
+    ]
   },
   {
     "manager": "Pete Mcloughan",
@@ -1647,7 +2120,14 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Hartford, CT",
     "statesCovers": "IN, MI,OH, PA, KY",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Indiana",
+      "Kentucky",
+      "Michigan",
+      "Ohio",
+      "Pennsylvania"
+    ]
   },
   {
     "manager": "Pete Mcloughan",
@@ -1658,7 +2138,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Northbrook, IL",
     "statesCovers": "IL, WI",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Illinois",
+      "Wisconsin"
+    ]
   },
   {
     "manager": "Pete Mcloughan",
@@ -1669,51 +2153,68 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Wauconda, IL",
     "statesCovers": "Il, Wi",
-    "officeLocation": "Vernon Hills, IL"
+    "officeLocation": "Vernon Hills, IL",
+    "coverageParsed": [
+      "Illinois",
+      "Wisconsin"
+    ]
   },
   {
     "manager": "Rahul Mathur",
     "name": "Aris Ventura",
     "title": "Principal Solutions Executive",
     "email": "arisven@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Odessa, FL",
     "statesCovers": "South East",
-    "officeLocation": "Tampa, FL"
+    "officeLocation": "Tampa, FL",
+    "coverageParsed": [
+      "Southeast"
+    ]
   },
   {
     "manager": "Rahul Mathur",
     "name": "Chris Pesce",
     "title": "Consulting Solutions Executive",
     "email": "chris.pesce@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Toms River, NJ",
     "statesCovers": "Majors North East",
-    "officeLocation": "Cherry Hill, NJ"
+    "officeLocation": "Cherry Hill, NJ",
+    "coverageParsed": [
+      "Majors Northeast"
+    ]
   },
   {
     "manager": "Rahul Mathur",
     "name": "Garrett Belschner",
     "title": "Principal Solutions Executive",
     "email": "garrbel@cdw.com",
-    "segment": "Commerical Enterprise/Majors East/FSI",
+    "segment": "Commercial Enterprise/Majors East/FSI",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Chicago, IL",
     "statesCovers": "Enterprise Central & West",
-    "officeLocation": "Adams"
+    "officeLocation": "Adams",
+    "coverageParsed": [
+      "Enterprise Central & West"
+    ]
   },
   {
     "manager": "Rahul Mathur",
     "name": "Jeremy Rigefsky",
     "title": "Principal Solutions Executive",
     "email": "jererig@cdw.com",
-    "segment": "Commerical Enterprise/Majors East",
+    "segment": "Commercial Enterprise/Majors East",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Philadelphia, PA",
     "statesCovers": "East and Central Enterprise",
-    "officeLocation": "Cherry Hill, NJ"
+    "officeLocation": "Cherry Hill, NJ",
+    "coverageParsed": [
+      "Central Enterprise",
+      "East Region"
+    ]
   },
   {
     "manager": "Rahul Mathur",
@@ -1724,7 +2225,16 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Wauconda, IL",
     "statesCovers": "MN, IA, MO, ND, SD, NE, KS",
-    "officeLocation": "Vernon Hills, IL"
+    "officeLocation": "Vernon Hills, IL",
+    "coverageParsed": [
+      "Iowa",
+      "Kansas",
+      "Minnesota",
+      "Missouri",
+      "Nebraska",
+      "North Dakota",
+      "South Dakota"
+    ]
   },
   {
     "manager": "Robert High",
@@ -1735,7 +2245,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Austin, TX",
     "statesCovers": "TX",
-    "officeLocation": "Austin, TX"
+    "officeLocation": "Austin, TX",
+    "coverageParsed": [
+      "Texas"
+    ]
   },
   {
     "manager": "Robert High",
@@ -1746,7 +2259,14 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Charlotte, NC",
     "statesCovers": "TN, AL,MS,NC,SC",
-    "officeLocation": "Raleigh, NC"
+    "officeLocation": "Raleigh, NC",
+    "coverageParsed": [
+      "Alabama",
+      "Mississippi",
+      "North Carolina",
+      "South Carolina",
+      "Tennessee"
+    ]
   },
   {
     "manager": "Robert High",
@@ -1757,7 +2277,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Miami, FL",
     "statesCovers": "FL",
-    "officeLocation": "NY"
+    "officeLocation": "NY",
+    "coverageParsed": [
+      "Florida"
+    ]
   },
   {
     "manager": "Robert High",
@@ -1767,8 +2290,12 @@
     "segment": "Territory",
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "South Setauket, NY",
-    "statesCovers": "NE Fiekd, New England, NYC",
-    "officeLocation": ""
+    "statesCovers": "NE Field, New England, NYC",
+    "officeLocation": "",
+    "coverageParsed": [
+      "New England",
+      "Northeast Region"
+    ]
   },
   {
     "manager": "Robert High",
@@ -1779,7 +2306,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Atlanta, GA",
     "statesCovers": "Ga, Fl",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Florida",
+      "Georgia"
+    ]
   },
   {
     "manager": "Robert High",
@@ -1790,7 +2321,10 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "Sugar Land, TX",
     "statesCovers": "TX",
-    "officeLocation": "Houston, TX"
+    "officeLocation": "Houston, TX",
+    "coverageParsed": [
+      "Texas"
+    ]
   },
   {
     "manager": "Robert High",
@@ -1801,7 +2335,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Tulsa, OK",
     "statesCovers": "OK, AR",
-    "officeLocation": "Dallas, TX"
+    "officeLocation": "Dallas, TX",
+    "coverageParsed": [
+      "Arkansas",
+      "Oklahoma"
+    ]
   },
   {
     "manager": "Robert High",
@@ -1812,7 +2350,17 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Midlothian, VA",
     "statesCovers": "Mid Atlantic, Ma, Pa, NJ, De,Md, DC, WV",
-    "officeLocation": "McLean, VA"
+    "officeLocation": "McLean, VA",
+    "coverageParsed": [
+      "DC",
+      "Delaware",
+      "Maryland",
+      "Massachusetts",
+      "Mid-Atlantic",
+      "New Jersey",
+      "Pennsylvania",
+      "West Virginia"
+    ]
   },
   {
     "manager": "Ryan Greer",
@@ -1823,7 +2371,11 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Westerville, OH",
     "statesCovers": "Ohio, KY",
-    "officeLocation": "Columbus, OH"
+    "officeLocation": "Columbus, OH",
+    "coverageParsed": [
+      "Kentucky",
+      "Ohio"
+    ]
   },
   {
     "manager": "Ryan Greer",
@@ -1834,7 +2386,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Mooresville, IN",
     "statesCovers": "IN",
-    "officeLocation": "Indianapolis, IN"
+    "officeLocation": "Indianapolis, IN",
+    "coverageParsed": [
+      "Indiana"
+    ]
   },
   {
     "manager": "Ryan Greer",
@@ -1845,7 +2400,10 @@
     "solutionArea": "All DI (HI,SEC,DX)",
     "homeLocation": "MN",
     "statesCovers": "MN",
-    "officeLocation": "Bloomington, MN"
+    "officeLocation": "Bloomington, MN",
+    "coverageParsed": [
+      "Minnesota"
+    ]
   },
   {
     "manager": "Scott Hansen",
@@ -1856,7 +2414,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Elmhurst, IL",
     "statesCovers": "K12 & HI ED Central POD",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": [
+      "K12 & Higher Education"
+    ]
   },
   {
     "manager": "Scott Hansen",
@@ -1867,7 +2428,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Sedona, AZ",
     "statesCovers": "K12 & HI ED West POD",
-    "officeLocation": "Tempe, AZ"
+    "officeLocation": "Tempe, AZ",
+    "coverageParsed": [
+      "K12 & Higher Education"
+    ]
   },
   {
     "manager": "Scott Hansen",
@@ -1878,7 +2442,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Tampa, FL",
     "statesCovers": "K12 & Hi ED  East POD",
-    "officeLocation": "Tampa, FL"
+    "officeLocation": "Tampa, FL",
+    "coverageParsed": [
+      "K12 & Higher Education"
+    ]
   },
   {
     "manager": "Scott Hansen",
@@ -1889,7 +2456,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Houston, TX",
     "statesCovers": "K12 & HI ED Central POD",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "K12 & Higher Education"
+    ]
   },
   {
     "manager": "Scott Hansen",
@@ -1900,7 +2470,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Vancouver, WA",
     "statesCovers": "K12 & HI ED West POD",
-    "officeLocation": "Portland, OR"
+    "officeLocation": "Portland, OR",
+    "coverageParsed": [
+      "K12 & Higher Education"
+    ]
   },
   {
     "manager": "Sheg Daniel",
@@ -1911,7 +2484,22 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Milwaukee, WI",
     "statesCovers": "OH, IN, MI, KY, IL, WI, MN, IA, MO, KS, NE, SD, ND",
-    "officeLocation": "Milwaukee, WI"
+    "officeLocation": "Milwaukee, WI",
+    "coverageParsed": [
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Michigan",
+      "Minnesota",
+      "Missouri",
+      "Nebraska",
+      "North Dakota",
+      "Ohio",
+      "South Dakota",
+      "Wisconsin"
+    ]
   },
   {
     "manager": "Sheg Daniel",
@@ -1922,7 +2510,8 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Dayton, OH",
     "statesCovers": "",
-    "officeLocation": "Columbus, OH"
+    "officeLocation": "Columbus, OH",
+    "coverageParsed": []
   },
   {
     "manager": "Sheg Daniel",
@@ -1933,7 +2522,15 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Wausaukee, WI",
     "statesCovers": "MI, WI, MN, ND, SD, NE,",
-    "officeLocation": "Milwaukee, WI"
+    "officeLocation": "Milwaukee, WI",
+    "coverageParsed": [
+      "Michigan",
+      "Minnesota",
+      "Nebraska",
+      "North Dakota",
+      "South Dakota",
+      "Wisconsin"
+    ]
   },
   {
     "manager": "Sheg Daniel",
@@ -1944,7 +2541,20 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Elsinor, Ca",
     "statesCovers": "CA,NV,AZ,NM,CO,UT,WY,MT,ID,OR WA,HI",
-    "officeLocation": ""
+    "officeLocation": "",
+    "coverageParsed": [
+      "Arizona",
+      "California",
+      "Colorado",
+      "Hawaii",
+      "Idaho",
+      "Montana",
+      "Nevada",
+      "New Mexico",
+      "Oregon/Washington",
+      "Utah",
+      "Wyoming"
+    ]
   },
   {
     "manager": "Sheg Daniel",
@@ -1955,7 +2565,18 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Chicago, IL",
     "statesCovers": "OH, IN, MI, KY, IL, WI, MN, IA, MO",
-    "officeLocation": "Chicago, IL (West Adams)"
+    "officeLocation": "Chicago, IL (West Adams)",
+    "coverageParsed": [
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kentucky",
+      "Michigan",
+      "Minnesota",
+      "Missouri",
+      "Ohio",
+      "Wisconsin"
+    ]
   },
   {
     "manager": "Travis Wagner",
@@ -1966,7 +2587,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Lake Saint Louis, MO",
     "statesCovers": "MO Named Accounts",
-    "officeLocation": "St. Louis, MO"
+    "officeLocation": "St. Louis, MO",
+    "coverageParsed": [
+      "Named Accounts"
+    ]
   },
   {
     "manager": "Travis Wagner",
@@ -1977,7 +2601,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Savage, MN",
     "statesCovers": "Heartland",
-    "officeLocation": "Bloomington, MN"
+    "officeLocation": "Bloomington, MN",
+    "coverageParsed": [
+      "Heartland"
+    ]
   },
   {
     "manager": "Travis Wagner",
@@ -1988,7 +2615,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Springfield, MO",
     "statesCovers": "Heartland",
-    "officeLocation": "Overland Park, KS"
+    "officeLocation": "Overland Park, KS",
+    "coverageParsed": [
+      "Heartland"
+    ]
   },
   {
     "manager": "Travis Wagner",
@@ -1999,7 +2629,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Omaha, NE",
     "statesCovers": "Heartland",
-    "officeLocation": "Omaha, NE"
+    "officeLocation": "Omaha, NE",
+    "coverageParsed": [
+      "Heartland"
+    ]
   },
   {
     "manager": "Travis Wagner",
@@ -2010,7 +2643,10 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Omaha, NE",
     "statesCovers": "Heartland",
-    "officeLocation": "Omaha, NE"
+    "officeLocation": "Omaha, NE",
+    "coverageParsed": [
+      "Heartland"
+    ]
   },
   {
     "manager": "Travis Wagner",
@@ -2021,6 +2657,9 @@
     "solutionArea": "Data Center Solutions (DCS)",
     "homeLocation": "Shawnee, KS",
     "statesCovers": "Heartland",
-    "officeLocation": "Overland Park, KS"
+    "officeLocation": "Overland Park, KS",
+    "coverageParsed": [
+      "Heartland"
+    ]
   }
 ]
