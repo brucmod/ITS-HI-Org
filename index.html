@@ -257,6 +257,7 @@
   <select id="filter-manager"><option value="">All Managers</option></select>
   <select id="filter-segment"><option value="">All Segments</option></select>
   <select id="filter-solution"><option value="">All Solution Areas</option></select>
+  <select id="filter-coverage"><option value="">All Coverage Areas</option></select>
 
   <div class="view-toggle">
     <button class="view-btn active" id="btn-table" title="Table view">
@@ -343,6 +344,7 @@ const FILTER_FIELDS = {
   'filter-manager':  'manager',
   'filter-segment':  'segment',
   'filter-solution': 'solutionArea',
+  'filter-coverage': 'coverageParsed',
 };
 
 function populateFilters() {
@@ -351,6 +353,12 @@ function populateFilters() {
   const mSel = document.getElementById('filter-manager');
   mSel.innerHTML = '<option value="">All Managers</option>';
   mgrs.forEach(v => { const o=document.createElement('option'); o.value=v; o.textContent=v; mSel.appendChild(o); });
+  // Coverage Area — array field, flatten & dedupe
+  const covVals = [...new Set(DATA.flatMap(d => d.coverageParsed || []).filter(Boolean))].sort();
+  const covSel = document.getElementById('filter-coverage');
+  covSel.innerHTML = '<option value="">All Coverage Areas</option>';
+  covVals.forEach(v => { const o=document.createElement('option'); o.value=v; o.textContent=v; covSel.appendChild(o); });
+
   // Segment & Solution Area
   for (const [id, key] of [['filter-segment','segment'],['filter-solution','solutionArea']]) {
     const vals = [...new Set(DATA.map(d=>d[key]).filter(Boolean))].sort();
@@ -383,6 +391,7 @@ function updateCascadingDropdowns(changedId) {
         if (d.titleGroup === 'Unknown') return false;
         for (const [fkey, fval] of Object.entries(vals)) {
           if (fkey === 'manager' && fval) { if (d.manager !== fval) return false; }
+        else if (fkey === 'coverageParsed' && fval) { if (!(d.coverageParsed||[]).includes(fval)) return false; }
         else if (fval && d[fkey] !== fval) return false;
         }
         if (q) {
@@ -390,7 +399,11 @@ function updateCascadingDropdowns(changedId) {
           if (!hay.includes(q)) return false;
         }
         return true;
-      }).map(d => d[key]).filter(Boolean)
+      }).flatMap(d => {
+        if (key === 'manager') return isLeadership(d.manager) ? [] : [d.manager];
+        if (key === 'coverageParsed') return d.coverageParsed || [];
+        return d[key] ? [d[key]] : [];
+      }).filter(Boolean)
     )].sort();
 
     const placeholder = sel.options[0].textContent;
@@ -421,10 +434,12 @@ function getFiltered() {
   const mgr  = document.getElementById('filter-manager').value;
   const seg  = document.getElementById('filter-segment').value;
   const sol  = document.getElementById('filter-solution').value;
+  const cov  = document.getElementById('filter-coverage').value;
   return DATA.filter(d => {
     if (mgr && d.manager !== mgr) return false;
     if (seg && d.segment !== seg) return false;
     if (sol && d.solutionArea !== sol) return false;
+    if (cov && !(d.coverageParsed||[]).includes(cov)) return false;
     if (d.titleGroup === 'Unknown') return false;
     if (q) {
       const hay = [d.name,d.title,d.email,d.segment,d.solutionArea,d.homeLocation,d.officeLocation,d.manager,d.statesCovers].join(' ').toLowerCase();
@@ -646,10 +661,12 @@ Object.keys(FILTER_FIELDS).forEach(id => {
     render();
   });
 });
+document.getElementById('filter-coverage').addEventListener('change', () => { updateCascadingDropdowns('filter-coverage'); render(); });
 
 document.getElementById('clear-filters').addEventListener('click', () => {
   document.getElementById('search').value = '';
   Object.keys(FILTER_FIELDS).forEach(id => { document.getElementById(id).value = ''; });
+  document.getElementById('filter-coverage').value = '';
   populateFilters(); // restore all options
   render();
 });
