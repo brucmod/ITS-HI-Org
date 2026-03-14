@@ -395,7 +395,7 @@ function updateCascadingDropdowns(changedId) {
         else if (fval && d[fkey] !== fval) return false;
         }
         if (q) {
-          const hay = [d.name,d.title,d.email,d.location,d.manager,d.director,d.segment,d.channel,d.tier,d.region,d.area,d.district,d.phone].join(' ').toLowerCase();
+          const hay = [d.name,d.title,d.email,d.homeLocation,d.officeLocation,d.manager,d.segment,d.solutionArea,d.statesCovers].join(' ').toLowerCase();
           if (!hay.includes(q)) return false;
         }
         return true;
@@ -468,14 +468,12 @@ function renderTable(data) {
     return av.localeCompare(bv) * sortDir;
   });
   const cols = [
-    {key:'name',    label:'Name'},
-    {key:'title',   label:'Title'},
-    {key:'segment', label:'Segment'},
-    {key:'channel', label:'Channel'},
-    {key:'tier',    label:'Tier'},
-    {key:'region',  label:'Region'},
-    {key:'location',label:'Location'},
-    {key:'manager', label:'Manager'},
+    {key:'name',         label:'Name'},
+    {key:'title',        label:'Title'},
+    {key:'segment',      label:'Segment / AOR'},
+    {key:'solutionArea', label:'Solution Area'},
+    {key:'homeLocation', label:'Home'},
+    {key:'manager',      label:'Manager'},
   ];
   const thead = cols.map(c => {
     const s = sortCol === c.key;
@@ -591,49 +589,28 @@ function openModal(name) {
     </div>
     <button class="modal-close" id="modal-close-btn">✕</button>`;
 
-  const contactFields = [
-    {label:'Email', value: d.email ? `<a href="mailto:${d.email}">${d.email}</a>` : '—', full:true},
-    {label:'Phone', value: d.phone || '—'},
-    {label:'Location', value: d.location || '—'},
-    {label:'State', value: d.state || '—'},
-    {label:'Tenure', value: d.losMonths ? `${d.losMonths} (${d.losGroup})` : d.losGroup || '—', full:true},
-    {label:'Academy Status', value: d.academyFlag || '—'},
+  const fields = [
+    {label:'Email',          value: d.email?`<a href="mailto:${d.email}">${d.email}</a>`:'—', full:true},
+    {label:'Manager',        value: displayManager(d.manager)},
+    {label:'Solution Area',  value: d.solutionArea||'—'},
+    {label:'Segment / AOR',  value: d.segment||'—', full:true},
+    {label:'Home Location',  value: d.homeLocation||'—'},
+    {label:'CDW Office',     value: d.officeLocation||'—'},
+    {label:'States Covered', value: d.statesCovers||'—', full:true},
   ];
-
-  const orgFields = [
-    {label:'Region', value: d.region || '—'},
-    {label:'Area',   value: d.area   || '—'},
-    {label:'District', value: d.district || '—', full:true},
-  ];
-
-  const chainHTML = [
-    {label:'Manager',  name: d.manager,  title: d.managerTitle,  email: d.managerEmail},
-    {label:'Director', name: d.director, title: d.directorTitle, email: d.directorEmail},
-  ].filter(x => x.name).map(x => `
-    <div class="chain-row">
-      ${avatarHTML(x.name, 32, 12)}
-      <div><div class="chain-name">${x.name}</div><div class="chain-title">${x.title||''}</div></div>
-      ${x.email ? `<a class="email-link chain-email" href="mailto:${x.email}" title="${x.email}">✉</a>` : ''}
-    </div>`).join('');
 
   document.getElementById('modal-body').innerHTML = `
     <div class="detail-section">
-      <div class="detail-section-title">Contact & Location</div>
+      <div class="detail-section-title">Details</div>
       <div class="detail-grid">
-        ${contactFields.map(f => `<div class="detail-item ${f.full?'full':''}"><div class="detail-label">${f.label}</div><div class="detail-value">${f.value}</div></div>`).join('')}
+        ${fields.map(f=>`<div class="detail-item ${f.full?'full':''}"><div class="detail-label">${f.label}</div><div class="detail-value">${f.value}</div></div>`).join('')}
       </div>
-    </div>
-    <div class="detail-section">
-      <div class="detail-section-title">Org Structure</div>
-      <div class="detail-grid">
-        ${orgFields.map(f => `<div class="detail-item ${f.full?'full':''}"><div class="detail-label">${f.label}</div><div class="detail-value">${f.value}</div></div>`).join('')}
-      </div>
-    </div>
-    ${chainHTML ? `<div class="detail-section"><div class="detail-section-title">Reporting Chain</div>${chainHTML}</div>` : ''}`;
+    </div>`;
 
   document.getElementById('modal-overlay').classList.add('open');
   document.getElementById('modal-close-btn').onclick = closeModal;
 }
+
 
 function closeModal() { document.getElementById('modal-overlay').classList.remove('open'); }
 document.getElementById('modal-overlay').addEventListener('click', e => { if (e.target === document.getElementById('modal-overlay')) closeModal(); });
